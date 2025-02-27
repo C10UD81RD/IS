@@ -1,0 +1,17 @@
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\bin\Debug\net8.0-windows\Hod_konem.exe
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\bin\Debug\net8.0-windows\Hod_konem.deps.json
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\bin\Debug\net8.0-windows\Hod_konem.runtimeconfig.json
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\bin\Debug\net8.0-windows\Hod_konem.dll
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\bin\Debug\net8.0-windows\Hod_konem.pdb
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.Form1.resources
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.csproj.GenerateResource.cache
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.AssemblyInfoInputs.cache
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.AssemblyInfo.cs
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.csproj.CoreCompileInputs.cache
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.dll
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\refint\Hod_konem.dll
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.pdb
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.genruntimeconfig.cache
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\ref\Hod_konem.dll
+C:\Users\Климкин Степан\source\repos\Hod_konem\Hod_konem\obj\Debug\net8.0-windows\Hod_konem.Properties.Resources.resources
