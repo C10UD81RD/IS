@@ -1,0 +1,16 @@
+C:\Users\Климкин Степан\source\repos\Wine\Wine\bin\Debug\net8.0-windows\Wine.exe
+C:\Users\Климкин Степан\source\repos\Wine\Wine\bin\Debug\net8.0-windows\Wine.deps.json
+C:\Users\Климкин Степан\source\repos\Wine\Wine\bin\Debug\net8.0-windows\Wine.runtimeconfig.json
+C:\Users\Климкин Степан\source\repos\Wine\Wine\bin\Debug\net8.0-windows\Wine.dll
+C:\Users\Климкин Степан\source\repos\Wine\Wine\bin\Debug\net8.0-windows\Wine.pdb
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.Form1.resources
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.csproj.GenerateResource.cache
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.AssemblyInfoInputs.cache
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.AssemblyInfo.cs
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.csproj.CoreCompileInputs.cache
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.dll
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\refint\Wine.dll
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.pdb
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\Wine.genruntimeconfig.cache
+C:\Users\Климкин Степан\source\repos\Wine\Wine\obj\Debug\net8.0-windows\ref\Wine.dll
